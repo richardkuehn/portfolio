@@ -1,3 +1,4 @@
 # add the following to _config.yml file
 title: Richard 'Ricky' Kuehn
+logo: /rkuehn_square.png
 remote_theme: pages-themes/minimal@v0.2.0
